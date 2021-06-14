@@ -1,2 +1,2 @@
 # ML-Model
-this a repo for my first mini project. building an ML model 
+this is a repo for my first mini project. building an ML model 
