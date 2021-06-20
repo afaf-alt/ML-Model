@@ -4,3 +4,4 @@ i collect data from online metadata
 set up the local machine
 start the project
 after building the model, run test it
+more details are added as requested
